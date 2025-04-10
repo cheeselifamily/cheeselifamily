@@ -2,7 +2,7 @@
 - 👀 We are interested in travels, nature, sharing, ...
 - 🌱 We are currently traveling around the World
 - 💞️ We're looking to collaborate on any open-source tool related to blogging.
-- 📫 You can reach us on our [French blog](https://fr.cheeseli.com) which will soon be upgraded using Hexo.
+- 📫 You can reach us on our [French blog](https://fr.cheeseli.com) which will be upgraded hopefuly soon.
 - 😄 Pronouns: them/theirs/they
 - ⚡ Fun fact: we work, travel, play, do school, learn, enjoy... well, live in our bus while rounding the World
 
